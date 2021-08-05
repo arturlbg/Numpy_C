@@ -1,5 +1,3 @@
-/* Nome: Artur Luis Brito Gurjão
-   Matrícula: 20200024903          */
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
